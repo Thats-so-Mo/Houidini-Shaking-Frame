@@ -7,7 +7,7 @@ The concept revolves around the frame shaking as if influenced by an unseen forc
 
 The Wemos D1 Mini serves as the brain of the operation, creating a web server that acts as the control hub. By connecting to the device and navigating to the IP address 192.168.4.1, users can access a custom-built webpage featuring controls to trigger the shaking effect. This webpage allows for precise control over the prop, enhancing the realism of the ghostly interference.
 
-At the heart of the shaking effect are vibrating motors repurposed from a PlayStation 2 controller. These motors create the desired shaking effect, simulating the randomness of paranormal activity. However, for a more intense effect, more powerful or stronger motors may be required. The frame itself is mounted on suction feet, providing stability while allowing for easy placement on various surfaces.
+At the heart of the shaking effect are vibrating motors repurposed from a PlayStation 2 controller. These motors create the desired shaking effect, simulating the randomness of paranormal activity. However, for a more intense effect, more powerful or stronger motors may be required.
 
 One of the most exciting aspects of this prop is the wireless control. Using their smartphones, users can trigger the shaking effect at will, making it appear as though the frame is reacting to the environment or commands from beyond. This seamless integration of technology and illusion adds an extra layer of mystery and excitement to any Halloween setup.
 
